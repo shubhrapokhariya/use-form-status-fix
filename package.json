@@ -1,0 +1,31 @@
+{
+  "name": "use-form-status-fix",
+  "version": "1.0.0",
+  "description": "A drop-in SubmitButton, PendingFieldset and FormStatusText for React 19's useFormStatus, fixing the pending-always-false bug and adding per-button pending state for forms with multiple submit buttons.",
+  "license": "MIT",
+  "author": "Shubhra Dev",
+  "keywords": [
+    "react",
+    "react-19",
+    "useformstatus",
+    "use-form-status",
+    "server-actions",
+    "nextjs",
+    "form-actions",
+    "submit-button",
+    "pending-state",
+    "accessibility",
+    "typescript"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "typescript": "^5.9.3"
+  }
+}
